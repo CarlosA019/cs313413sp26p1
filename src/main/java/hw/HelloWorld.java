@@ -7,6 +7,7 @@ public class HelloWorld {
   }
 
   public int getYear() {
-    return 2025;
+    return 2026;
+
   }
 }
